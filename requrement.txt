@@ -9,4 +9,4 @@ MarkupSafe==2.1.1
 Werkzeug==2.1.2
 zipp==3.8.0
 distribute==0.6.24
-setuptools==0.7.3
+setuptools==60.10.0

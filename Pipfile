@@ -1,4 +1,4 @@
--umpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
+-umpy  file:///C:/ci/numpy_and_numpy_base_1618497418457/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.7.2
 anaconda-navigator==2.0.3
